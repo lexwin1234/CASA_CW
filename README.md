@@ -1,6 +1,7 @@
 # CASA_CW
 This repository provide the data applied into the study
-The procedures of the investigation can be divided into 3 parts, which are 
+The procedures of the investigation can be divided into 3 parts, which are
+
 	1) Data input  
 	2) Create isochrones
 	3) Cover area calculation 
